@@ -9,7 +9,7 @@
     "theme": "ferramenta de aprendizado institucional"
   },
   "structure": {
-    "readme": "apresentacao.md",
+    "readme": "introducao.md",
     "summary": "sumario.md"
   },
   "plugins": [
