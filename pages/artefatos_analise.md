@@ -11,22 +11,34 @@ As 4 visões de modelo são: visão lógica, visão de desenvolvimento, visão d
 Ilustra a funcionalidade que o sistema disponibiliza para o usuário final. Para esta finalidade foi utilizado os Diagramas de classes e o Digrama de Entidade Relacionamento Estendido (EER).
 
 #### Diagrama de Classes de Domínio
-asdasdasdsadsa
+
+É uma representação visual de classes conceituais ou objetos do mundo real em um domínio de interesse. Usando a notação UML, o modelo de domínio é ilustrado com um conjunto de diagramas de classes nos quais não são definidas operações.
+
 #### Diagrama de Classes de Projeto
-asdsadsadsadsad
+ É utilizado para representar os objetos que o sistema irá manipular, suas operações ou serviços (métodos). Os métodos são responsáveis por manipular os atributos, efetuar ações que alterem o estado dos atributos, manipular as associações e relacionamentos entre as classes.
+
 #### Diagrama Entidade Relacionamento Estendido (EER)
 
-### Visão de desenvolvimento 
+Modelos entidade-relacionamento estendidos são diagramas avançados de banco de dados bastante semelhantes aos diagramas ER regulares. Diagramas ER estendido​s são modelos de alto nível que representam os requisitos e complexidades de bancos de dados complexos.
+
+### Visão de desenvolvimento
+
 Ilustra o sistema do ponto de vista do programador e se preocupa com o gerenciamento de projeto. Para isto foi utilizado o Diagrama de Componentes e Diagrama de Pacotes.
 
 #### Diagrama de Componentes
-sdfsdfsdfsdfsd
+
+Este diagrama permite a modelagem física de um sistema, através da visão dos seus componentes e relacionamentos entre os mesmos. Similar a um pacote, mas com um enfoque do empacotamento físico de código. Basicamente, um diagrama de componentes é composto por: componente, interface e relacionamentos. 
+
 #### Diagrama de Pacotes
-sdfsdfsdfsdfsdfsd
+
+Diagramas de pacotes são diagrama estruturais comumente usados para simplificar os diagramas de classe complexos e organizar as classes em pacotes. Um pacote é uma coleção de elementos relacionados, incluindo diagramas, documentos, classes e pacotes de eventos. 
+
 ### Visão de processo
 Permite visualizar as partes dinâmicas do sistema, explicar os processos e como eles se comunicam, focando no comportamento do sistema. Para este processo normalmente é utilizado o Diagrama de Atividades, mas ele pode (e foi nesse projeto) ser substituído pelo Diagrama Business Process Model and Notation (BPMN) pois este também serve para modelar processos.
 
 #### Diagrama Business Process Model and Notation (BPMN)
+
+Um diagrama  BPMN é uma representação gráfica feita a partir de ícones que simbolizam o fluxo de processo. Ou seja, a partir dessa notação é possível fazer o mapeamento dos processos. Portanto, cada ícone representa uma etapa do processo de produção.
 
 - Como é:
 
@@ -45,6 +57,9 @@ Permite visualizar as partes dinâmicas do sistema, explicar os processos e como
 Mostra como os executáveis e componentes são mapeados para plataformas e nós físicos, ou seja, a distribuição física de elementos do sistema.
 
 #### Diagrama de Implantação
+
+
+
 
 ### Visão de caso de uso
 
@@ -71,9 +86,9 @@ asdsadsadsa
 |:---:|:---:|
 |1. aasdsadssd||
 ||2. asdsadsad|     
-  
--
-   - Fluxo Alternativo 1:
+
+
+- Fluxo Alternativo 1:
         
 |Sistema|Atores|
 |:---:|:---:|
