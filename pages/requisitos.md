@@ -1,39 +1,25 @@
-# Requisitos Funcionais (RF)
+# Requisitos do Sistema 
 
-## Histórias dos Usuários
-|Eu, enquanto (Quem) |Quero (o que quero) |Para (porque)|
-|:--:|:--:|:--:|
-|Loren|Sequência de palavras, geralmente latinas ou alatinadas, utilizada para preencher o espaço destinado a texto numa publicação, página de Internet, interface gráfico, etc. |Latim|
-|Ipsum|e testar as opções de formatação e edição e o arranjo dos elementos gráficos antes da inserção do conteúdo.|Inglês|
-|Loren|Sequência de palavras, geralmente latinas ou alatinadas, utilizada para preencher o espaço destinado a texto numa publicação, página de Internet, interface gráfico, etc. |Latim|
-|Ipsum|e testar as opções de formatação e edição e o arranjo dos elementos gráficos antes da inserção do conteúdo.|Inglês|
-
-
-## Modelo de Negócio (BPMN)
-
-### Como é
-
-![Coloque a descrição da sua imagem aqui, e o link coloque a seguir dentro dos parenteses](https://dtdsgp.com/wp-content/uploads/2020/05/news1.png)
-*Legende aqui a sua imagem*
-
-| ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
-|:--:| 
-| *Space* |
-
-### Como será
-
-![Coloque a descrição da sua imagem aqui, e o link coloque a seguir dentro dos parenteses](https://dtdsgp.com/wp-content/uploads/2020/05/news1.png)
-*Legende aqui a sua imagem*
-
-
+## Requisitos Funcionais (RF)
 
 ## Inputs dos Usuários
 
 Explicar prioridade.....
 
 <a id="ancora1"></a>
-### RF001 balabalaba
+### RF001 Login no sistema
 
-Exlpicar a descrição aqui
+Explicar a descrição aqui
 
 - Prioridade: Essencial 
+
+## Requisitos Não-Funcionais (RNF)
+
+Explicar prioridade.....
+
+### RF001 Login no sistema
+
+Explicar a descrição aqui
+
+- Prioridade: Essencial 
+

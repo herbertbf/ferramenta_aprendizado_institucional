@@ -1,13 +1,19 @@
 # Introdução
 
+O objetivo do documento de projeto é oferecer uma listagem detalhada, por meio de textos e diagramas, do XXXX **Nome do Projeto** XXXX , a fim de esclarecer todos os pontos do projeto para os stakeholders — um  indivíduo,  grupo  ou  organização  que  possa  afetar,  ser  afetado,  ou  sentir-se  afetado por uma decisão, atividade, ou resultado de um projeto, programa ou portfólio.
+
 ## Visão Geral do Documento
 
-O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de 1500, quando uma misturou os caracteres de um texto para criar um espécime de livro. Este texto não só sobreviveu 5 séculos, mas também o salto para a tipografia electrónica, mantendo-se essencialmente inalterada. 
+Este documento apresenta uma visão abrangente dos requisitos do XXXX **Nome do Projeto** XXXX e utiliza diferentes visões para ilustrar os diversos aspectos do sistema. Sua intenção é capturar e transmitir as decisões significativas que foram tomadas em relação ao sistema. 
+
+Nas seções seguintes estão dispostos: Descrição Geral do Sistema; Requisitos do Sistema; Artefatos de análise, representado pelos Casos de Uso, Diagrama de Classes, Diagrama de pacotes, Diagrama EER, ; os protótipos e, por fim, as referências. Assim, funcionando como base para apresentação do XXXX **Nome do Projeto** XXXX  para os stakeholders. 
+    
+
 
 
 ## Convenções, termos e abreviações
 
-Foi popularizada nos anos 60 com a disponibilização das folhas de Letraset, que continham passagens com Lorem Ipsum, e mais recentemente com os programas de publicação como o Aldus PageMaker que incluem versões do Lorem Ipsum.
+A correta interpretação deste documento exige o conhecimento de algumas convenções e termos específicos, assim como, abreviações e glossários, que são descritos a seguir.
 
 |Siglas/Termos |Significado|
 |:--:|:--:|
