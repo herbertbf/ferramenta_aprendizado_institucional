@@ -9,7 +9,7 @@
     "theme": "ferramenta de aprendizado institucional"
   },
   "structure": {
-    "readme": "apresentacao.md",
+    "readme": "introducao.md",
     "summary": "sumario.md"
   },
   "plugins": [
@@ -51,7 +51,7 @@
       "url": "https://github.com/GeovanneAtanazio/ferramenta_aprendizado_institucional"
     },
     "tbfed-pagefooter": {
-      "copyright": "Copyright &copy 2022 Geovanne Atanazio",
+      "copyright": "Copyright &copy 2022 Herbert Barreto",
       "modify_label": "Arquivo revisado pela última vez em",
       "modify_format": "DD/MM/YYYY"
     }
