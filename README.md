@@ -1,6 +1,8 @@
-# Ferramenta de construção de manuais de aprendizado institucional 
+# Ferramenta de documentação de projetos
 
-Este é um projeto personalizado do GitBook-CLI e faz parte do Trabalho de Conclusão de Curso (TCC) de Geovanne Atanazio, seus contatos são: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/geovanne-atanazio-42292a15a), [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/GeovanneAtanazio), [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/Geovanne_S_A).
+Este é um projeto pessoal, criado por Herbert Barreto ([![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/herbert-barreto/), [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/herbertbf)), que serve como um modelo base para documentação de projetos de sistemas computacionais.
+
+O projeto hospedado no repositório [Ferramenta de construção de manuais de aprendizado institucional](https://github.com/GeovanneAtanazio/ferramenta_aprendizado_institucional.git), uma personalização do GitBook-CLI, serviu como base para esta ferramenta.
 
 ## O que é o GitBook-CLI
 
