@@ -6,11 +6,8 @@ O objetivo do documento de projeto é oferecer uma listagem detalhada, por meio 
 
 Este documento apresenta uma visão abrangente dos requisitos do XXXX **Nome do Projeto** XXXX e utiliza diferentes visões para ilustrar os diversos aspectos do sistema. Sua intenção é capturar e transmitir as decisões significativas que foram tomadas em relação ao sistema. 
 
-Nas seções seguintes estão dispostos: Descrição Geral do Sistema; Requisitos do Sistema; Artefatos de análise, representado pelos Casos de Uso, Diagrama de Classes, Diagrama de pacotes, Diagrama EER, ; os protótipos e, por fim, as referências. Assim, funcionando como base para apresentação do XXXX **Nome do Projeto** XXXX  para os stakeholders. 
+Nas seções seguintes estão dispostos: Descrição Geral do Sistema; Requisitos do Sistema; Artefatos de análise, visualizados pela Arquitetura 4+1 e seus respectivos diagramas; os protótipos e, por fim, as referências. Assim, funcionando como base para apresentação do XXXX **Nome do Projeto** XXXX  para os stakeholders. 
     
-
-
-
 ## Convenções, termos e abreviações
 
 A correta interpretação deste documento exige o conhecimento de algumas convenções e termos específicos, assim como, abreviações e glossários, que são descritos a seguir.
