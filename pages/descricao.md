@@ -39,10 +39,9 @@ Neste item devem ser descritas as regras de negócio relevantes para o sistema, 
 |Ipsum|e testar as opções de formatação e edição e o arranjo dos elementos gráficos antes da inserção do conteúdo.|Inglês|
 
 
-#### Business Model Canvas (BMC) 
+### Documento de Visão 
 
-O BMC é uma ferramenta de gerenciamento estratégico, que permite desenvolver e esboçar modelos de negócio novos ou existentes em uma única página. 
-Inserir modelo canva aqui.
+Nesta seção se apresenta diagramas que resumem as necessidades do dono do produto e as características esperadas do produto a ser desenvolvido. Assim como também pode ser feita uma análise interna e externa acerca do projeto.
 
 
 ### Prospecção tecnológica e busca de anterioridade
