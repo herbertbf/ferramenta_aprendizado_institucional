@@ -15,11 +15,11 @@ Ilustra a funcionalidade que o sistema disponibiliza para o usuário final. Para
 É uma representação visual de classes conceituais ou objetos do mundo real em um domínio de interesse. Usando a notação UML, o modelo de domínio é ilustrado com um conjunto de diagramas de classes nos quais não são definidas operações.
 
 #### Diagrama de Classes de Projeto
- É utilizado para representar os objetos que o sistema irá manipular, suas operações ou serviços (métodos). Os métodos são responsáveis por manipular os atributos, efetuar ações que alterem o estado dos atributos, manipular as associações e relacionamentos entre as classes.
+É utilizado para representar os objetos que o sistema irá manipular, suas operações ou serviços (métodos). Os métodos são responsáveis por manipular os atributos, efetuar ações que alterem o estado dos atributos, manipular as associações e relacionamentos entre as classes.
 
 #### Diagrama Entidade Relacionamento Estendido (EER)
 
-Modelos entidade-relacionamento estendidos são diagramas avançados de banco de dados bastante semelhantes aos diagramas ER regulares. Diagramas ER estendido​s são modelos de alto nível que representam os requisitos e complexidades de bancos de dados complexos.
+Modelos entidade-relacionamento estendidos são diagramas avançados de banco de dados bastante semelhantes aos diagramas ER regulares. Diagramas ER estendidos são modelos de alto nível que representam os requisitos e complexidades de bancos de dados complexos.
 
 ### Visão de desenvolvimento
 
@@ -31,7 +31,7 @@ Este diagrama permite a modelagem física de um sistema, através da visão dos 
 
 #### Diagrama de Pacotes
 
-Diagramas de pacotes são diagrama estruturais comumente usados para simplificar os diagramas de classe complexos e organizar as classes em pacotes. Um pacote é uma coleção de elementos relacionados, incluindo diagramas, documentos, classes e pacotes de eventos. 
+Diagramas de pacotes são diagrama estruturais comumente usados para simplificar os diagramas de classe complexos e organizar as classes em pacotes. Um pacote é uma coleção de elementos relacionados, incluindo diagramas, documentos, classes e pacotes de eventos.
 
 ### Visão de processo
 Permite visualizar as partes dinâmicas do sistema, explicar os processos e como eles se comunicam, focando no comportamento do sistema. Para este processo normalmente é utilizado o Diagrama de Atividades, mas ele pode (e foi nesse projeto) ser substituído pelo Diagrama Business Process Model and Notation (BPMN) pois este também serve para modelar processos.
@@ -44,13 +44,13 @@ Um diagrama  BPMN é uma representação gráfica feita a partir de ícones que 
 
 |![Coloque a descrição da sua imagem aqui, e o link coloque a seguir dentro dos parenteses](https://dtdsgp.com/wp-content/uploads/2020/05/news1.png)| 
 |:--:| 
-| *Legende aqui a sua imagem*|
+|*Legende aqui a sua imagem*|
 
 - Como será: 
  
 |![Coloque a descrição da sua imagem aqui, e o link coloque a seguir dentro dos parenteses](https://dtdsgp.com/wp-content/uploads/2020/05/news1.png)| 
 |:--:| 
-| *Legende aqui a sua imagem*|
+|*Legende aqui a sua imagem*|
 
 ### Visão física
 
@@ -58,50 +58,53 @@ Mostra como os executáveis e componentes são mapeados para plataformas e nós 
 
 #### Diagrama de Implantação
 
-
-
+Este diagrama foca a questão da organização da arquitetura física sobe a qual o software irá ser implantado e executado em termos de hardware, ou seja, as máquinas (computadores pessoais, servidores etc.) que suportam o sistema, além de definir como estas máquinas serão conectadas e por meio de quais protocolos se comunicarão e transmitirão as informações.
 
 ### Visão de caso de uso
 
- Descreve a arquitetura do sistema através do uso de Diagramas de casos de uso pois cada diagrama descreve sequências de interações entre os objetos e processos. 
+Descreve a arquitetura do sistema através do uso de Diagramas de casos de uso pois cada diagrama descreve sequências de interações entre os objetos e processos. 
 
 #### Diagramas de caso de uso
-asdsadsa
+
+Um modelo de caso de uso é um modelo que descreve como diferentes tipos de usuários interagem com o sistema para resolver um problema. Como tal, ele descreve as metas dos usuários, as interações entre os usuários e o sistema, bem como o comportamento necessário do sistema para satisfazer estas metas. 
+
 #### Descrição de casos de uso
-asdsadsadsa
 
 ##### UC001 - Logar no sistema
 
-- **Objetivo:**  asdsadsad
-- **Requisitos:** asdsadsad
-- **Atores:** asdsadsadsa
-- **Gatilho:** asdsadsadsa
-- **Pré-condição:** asdsadsadsa
-- **Pós-condição:** asdsadsada  
+- **Objetivo:**  Acessar o sistema.
+- **Requisitos:** RF001.
+- **Atores:** Técnico, Gestor B, Gestor A ou Gerente.
+- **Gatilho:** Acessar o sítio eletrônico do sistema.
+- **Pré-condição:** O ator deve estar cadastrado no sistema.
+- **Pós-condição:**   
 -  **Descrição tabular:** 
   
    - Fluxo principal:
   
 |Sistema|Atores|
 |:---:|:---:|
-|1. aasdsadssd||
-||2. asdsadsad|     
+|-|1. Insere os dados de acesso.|
+|-|2. Confirma os dados no sistema.|
+|3. Verifica os dados.|-| 
+|4. Concede acesso ao sistema.|-|      
 
 
 - Fluxo Alternativo 1:
         
 |Sistema|Atores|
 |:---:|:---:|
-|1. asd||
-||2. asdsadsasdsadsadsadad|
+|-|2. Envia dados inconsistentes. |
+|3. Não concede acesso ao sistema.|-|
+|4. Exibe mensagem de erro.|-|
 
  
    - Fluxo Alternativo 2:
         
 |Sistema|Atores|
 |:---:|:---:|
-|1. asasdsadsadsad||
-||2. asdsadsad|
+|4. Identifica que o usuário tentou fazer o login na página errada.|-|
+|5. Redireciona para a página de login correta.|-|
 
 
 
