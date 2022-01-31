@@ -1,6 +1,10 @@
 # Artefatos de Análise
-[Exemplo de linkagem com ](/requisitos_funcionais.md#ancora1)
-## Arquitetura de software escolhida
+
+Nesta seção será analisado o conjunto de atividades proveniente das tarefas envolvidas no processo de desenvolvimento do projeto. XXXXXXXXXXX **Cite aqui o que foi utilizado no projeto* XXXXXXXXXXXXXXX.
+
+
+
+## Modelo de visão da arquitetura de software escolhida
 
 A arquitetura visão-modelo 4+1 foi desenvolvida por Philippe Cruchten com o objetivo de descrever o funcionamento de sistemas de software e é baseado no uso de múltiplas visões concorrentes. Ela foi utilizada neste projeto pois suas visões são usadas para mostrar o sistema sob várias perspectivas, como usuário final, desenvolvedores e gerentes de projetos.
 
@@ -42,13 +46,13 @@ Um diagrama  BPMN é uma representação gráfica feita a partir de ícones que 
 
 - Como é:
 
-|![Coloque a descrição da sua imagem aqui, e o link coloque a seguir dentro dos parenteses](https://dtdsgp.com/wp-content/uploads/2020/05/news1.png)| 
+|![Coloque a descrição da sua imagem aqui, e o link coloque a seguir dentro dos parenteses](https://sparxsystems.com/enterprise_architect_user_guide/15.2/images/business-process-diagram-with-lanes-8364.png)| 
 |:--:| 
 |*Legende aqui a sua imagem*|
 
 - Como será: 
  
-|![Coloque a descrição da sua imagem aqui, e o link coloque a seguir dentro dos parenteses](https://dtdsgp.com/wp-content/uploads/2020/05/news1.png)| 
+|![Coloque a descrição da sua imagem aqui, e o link coloque a seguir dentro dos parenteses](https://sparxsystems.com/enterprise_architect_user_guide/15.2/images/business-process-diagram-with-lanes-8364.png)| 
 |:--:| 
 |*Legende aqui a sua imagem*|
 
@@ -71,16 +75,12 @@ Um modelo de caso de uso é um modelo que descreve como diferentes tipos de usu�
 #### Descrição de casos de uso
 
 ##### UC001 - Logar no sistema
-
-- **Objetivo:**  Acessar o sistema.
-- **Requisitos:** RF001.
-- **Atores:** Técnico, Gestor B, Gestor A ou Gerente.
-- **Gatilho:** Acessar o sítio eletrônico do sistema.
-- **Pré-condição:** O ator deve estar cadastrado no sistema.
-- **Pós-condição:**   
--  **Descrição tabular:** 
+|Objetivo|Requisitos|Atores|Gatilho|Pré-condição|Pós-condição|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|Acessar o sistema.|RF001.|Técnico, Gestor B, Gestor A ou Gerente.|Acessar o sítio eletrônico do sistema.|O ator deve estar cadastrado no sistema.|-|
   
-   - Fluxo principal:
+
+- Fluxo principal:
   
 |Sistema|Atores|
 |:---:|:---:|
@@ -88,7 +88,6 @@ Um modelo de caso de uso é um modelo que descreve como diferentes tipos de usu�
 |-|2. Confirma os dados no sistema.|
 |3. Verifica os dados.|-| 
 |4. Concede acesso ao sistema.|-|      
-
 
 - Fluxo Alternativo 1:
         
@@ -98,13 +97,12 @@ Um modelo de caso de uso é um modelo que descreve como diferentes tipos de usu�
 |3. Não concede acesso ao sistema.|-|
 |4. Exibe mensagem de erro.|-|
 
- 
-   - Fluxo Alternativo 2:
-        
-|Sistema|Atores|
-|:---:|:---:|
-|4. Identifica que o usuário tentou fazer o login na página errada.|-|
-|5. Redireciona para a página de login correta.|-|
+- Fluxo Alternativo 2:
+      
+ |Sistema|Atores|
+ |:---:|:---:|
+ |4. Identifica que o usuário tentou fazer o login na página errada.|-|
+ |5. Redireciona para a página de login correta.|-|
 
 
 
