@@ -6,6 +6,10 @@ Esta seção apresenta o conjunto das fontes efetivamente utilizadas na constru�
 
 - Arquitetura Visão-Modelo 4+1. **Basef**. Disponível em: http://www.basef.com.br/old/uml/204-arquitetura-visao-modelo-41. Acesso em: 27 de jan. 2022.
 
+### Artefatos de Análise
+
+- Arquitetura de desenho de software. **PUC Goiás**.  Disponível em: http://professor.pucgoias.edu.br/SiteDocente/admin/arquivosUpload/17676/material/Parte%201%20-%20Artefatos%20de%20Software.pdf. Acesso em: 30 de jan. 2022.
+
 ### Diagrama de Classes de Domínio
 
 - Modelo de Domínio: Visualizando Conceitos. **Instituto de Computação, Universade Estadual de Campinas**.  Disponível em: https://www.ic.unicamp.br/~ariadne/mc436/1s2017/Lar10ModDom.pdf. Acesso em: 27 de jan. 2022.
