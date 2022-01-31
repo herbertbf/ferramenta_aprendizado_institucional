@@ -15,7 +15,7 @@ O projeto consiste no XXXXXXXXXXX **Complete aqui com seu texto** XXXXXXXXXXXXXX
 
 ### Método de trabalho
 
-Para chegar ao objetivo serão utilizadas algumas metodologias melhoram a rotina de trabalho, entre elas Scrum + Kanban para auxiliar no trabalho em equipe, Planning Poker + Pontos de Função que ajudam a mensurar o prazo do projeto, e Desktop First que orientou para onde direcionar os esforços.
+Para chegar ao objetivo serão utilizadas algumas metodologias que melhoram a rotina de trabalho e auxiliam no ganho de produtividade, entre elas XXXXXXXXXXX **Complete aqui com as utilizadas no projeto, sempre com uma brevíssima descrição do para quê foi usada* XXXXXXXXXXXXXXX.
 
 ### Principais stakeholders e usuários
 
