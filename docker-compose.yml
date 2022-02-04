@@ -4,7 +4,7 @@ services:
   app:
     build: .
     command: >
-      bash -c "gitbook install
+      bash -c "gitbook install && gitbook pdf ./ ./pages/public/ebook.pdf
       && gitbook serve"
     ports:
       - "4000:4000"
