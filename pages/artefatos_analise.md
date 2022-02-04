@@ -1,6 +1,6 @@
 # Artefatos de Análise
 
-Nesta seção será analisado o conjunto de atividades proveniente das tarefas envolvidas no processo de desenvolvimento do projeto. XXXXXXXXXXX **Cite aqui o que foi utilizado no projeto* XXXXXXXXXXXXXXX.
+Nesta seção será analisado o conjunto de atividades proveniente das tarefas envolvidas no processo de desenvolvimento do projeto. [*Cite aqui o que foi utilizado no projeto*].
 
 
 
