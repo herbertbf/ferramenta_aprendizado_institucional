@@ -31,7 +31,7 @@
   "pluginsConfig": {
     
     "download-pdf-link": {
-      "base": "https://github.com/GeovanneAtanazio/ferramenta_aprendizado_institucional/blob/main/pages/public/ebook.pdf"
+      "base": "https://github.com/herbertbf/ferramenta_documentacao_projetos/blob/main/pages/public/ebook.pdf"
     },
     "fontsettings": {
       "theme": "sepia"
@@ -48,7 +48,7 @@
       "all": ["twitter", "linkedin", "whatsapp", "facebook"]
     },
     "github": {
-      "url": "https://github.com/GeovanneAtanazio/ferramenta_aprendizado_institucional"
+      "url": "https://github.com/herbertbf/ferramenta_documentacao_projetos"
     },
     "tbfed-pagefooter": {
       "copyright": "Copyright &copy 2022 Herbert Barreto",
