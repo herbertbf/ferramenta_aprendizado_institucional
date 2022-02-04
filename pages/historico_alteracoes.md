@@ -1,4 +1,4 @@
-## Histórico de Alterações
+# Histórico de Alterações
 
 |Data|Versão|Descrição|Autor(es)|
 |:-:|:-:|:-:|:-:|
