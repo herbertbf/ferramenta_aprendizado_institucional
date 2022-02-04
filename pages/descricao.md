@@ -1,8 +1,9 @@
 # Descrição Geral do Sistema 
 
-Esta seção tem como objetivo descrever de forma geral o sistema, o escopo e as principais funções. 
+Esta seção tem como objetivo descrever de forma geral o **{{ book.name }}**, o escopo e as suas principais funções. 
 
 ## Descrição do problema
+
 Descrever em um texto:
 - Quem é afetado pelo sistema?
 - Qual é o impacto do sistema?
@@ -11,11 +12,11 @@ Descrever em um texto:
 
 
 ## Objetivo do projeto
-O projeto consiste no XXXXXXXXXXX **Complete aqui com seu texto** XXXXXXXXXXXXXXX.
+O projeto **{{ book.name }}** consiste no  [*Complete aqui com seu texto*].
 
 ## Método de trabalho
 
-Para chegar ao objetivo serão utilizadas algumas metodologias que melhoram a rotina de trabalho e auxiliam no ganho de produtividade, entre elas XXXXXXXXXXX **Complete aqui com as utilizadas no projeto, sempre com uma brevíssima descrição do para quê foi usada* XXXXXXXXXXXXXXX.
+Para chegar ao objetivo serão utilizadas algumas metodologias que melhoram a rotina de trabalho e auxiliam no ganho de produtividade, entre elas [*Complete aqui com as utilizadas no projeto, sempre com uma brevíssima descrição do para quê foi usada*].
 
 ## Principais stakeholders e usuários
 
