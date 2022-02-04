@@ -46,13 +46,13 @@ Um diagrama  BPMN é uma representação gráfica feita a partir de ícones que 
 
 - Como é:
 
-|![Coloque a descrição da sua imagem aqui, e o link coloque a seguir dentro dos parenteses](https://sparxsystems.com/enterprise_architect_user_guide/15.2/images/business-process-diagram-with-lanes-8364.png)| 
+|![Coloque a descrição da sua imagem aqui, e o link coloque a seguir dentro dos parenteses](https://blog.iprocess.com.br/wp-content/uploads/2016/08/editores_bpmn_exemplo_bizagi.png)| 
 |:--:| 
 |*Legende aqui a sua imagem*|
 
 - Como será: 
  
-|![Coloque a descrição da sua imagem aqui, e o link coloque a seguir dentro dos parenteses](https://sparxsystems.com/enterprise_architect_user_guide/15.2/images/business-process-diagram-with-lanes-8364.png)| 
+|![Coloque a descrição da sua imagem aqui, e o link coloque a seguir dentro dos parenteses](https://blog.iprocess.com.br/wp-content/uploads/2016/08/editores_bpmn_exemplo_bizagi.png)| 
 |:--:| 
 |*Legende aqui a sua imagem*|
 
@@ -99,10 +99,10 @@ Um modelo de caso de uso é um modelo que descreve como diferentes tipos de usu�
 
 - Fluxo Alternativo 2:
       
- |Sistema|Atores|
- |:---:|:---:|
- |4. Identifica que o usuário tentou fazer o login na página errada.|-|
- |5. Redireciona para a página de login correta.|-|
+|Sistema|Atores|
+|:---:|:---:|
+|4. Identifica que o usuário tentou fazer o login na página errada.|-|
+|5. Redireciona para a página de login correta.|-|
 
 
 
