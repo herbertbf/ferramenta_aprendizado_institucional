@@ -6,7 +6,7 @@
   "description": "Projeto base da ferramenta de aprendizado institucional",
   "language": "pt",
   "variables": {
-    "theme": "ferramenta de aprendizado institucional"
+    "name":"Editar variável name no arquivo 'book.json' com o nome do projeto"
   },
   "structure": {
     "readme": "introducao.md",

@@ -1,4 +1,4 @@
-## Protótipos
+# Protótipos
 
 Nesta seção são apresentados os protótipos  validados pelo cliente (product owner).
 

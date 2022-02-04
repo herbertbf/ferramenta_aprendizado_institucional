@@ -1,8 +1,9 @@
-## Descrição Geral do Sistema 
+# Descrição Geral do Sistema 
 
-Esta seção tem como objetivo descrever de forma geral o sistema, o escopo e as principais funções. 
+Esta seção tem como objetivo descrever de forma geral o **{{ book.name }}**, o escopo e as suas principais funções. 
 
-### Descrição do problema
+## Descrição do problema
+
 Descrever em um texto:
 - Quem é afetado pelo sistema?
 - Qual é o impacto do sistema?
@@ -10,14 +11,14 @@ Descrever em um texto:
 
 
 
-### Objetivo do projeto
-O projeto consiste no XXXXXXXXXXX **Complete aqui com seu texto** XXXXXXXXXXXXXXX.
+## Objetivo do projeto
+O projeto **{{ book.name }}** consiste no  [*Complete aqui com seu texto*].
 
-### Método de trabalho
+## Método de trabalho
 
-Para chegar ao objetivo serão utilizadas algumas metodologias que melhoram a rotina de trabalho e auxiliam no ganho de produtividade, entre elas XXXXXXXXXXX **Complete aqui com as utilizadas no projeto, sempre com uma brevíssima descrição do para quê foi usada* XXXXXXXXXXXXXXX.
+Para chegar ao objetivo serão utilizadas algumas metodologias que melhoram a rotina de trabalho e auxiliam no ganho de produtividade, entre elas [*Complete aqui com as utilizadas no projeto, sempre com uma brevíssima descrição do para quê foi usada*].
 
-### Principais stakeholders e usuários
+## Principais stakeholders e usuários
 
 |Papel|Responsabilidades|*Stakeholders*|
 |:-:|:-:|:-:|
@@ -25,11 +26,11 @@ Para chegar ao objetivo serão utilizadas algumas metodologias que melhoram a ro
 |Parceiros|Desenvolvimento da aplicação.|SEPLOG;  DITIN|
 |Usuários|Alimentar o sistema, testar os protótipos e contribuir com sugestões de melhorias e/ou construção do ponto de vista do usuário.|Gerente;Gestor A;Gestor B;Técnico.|
 
-### Regras de negócio
+## Regras de negócio
 
 Neste item devem ser descritas as regras de negócio relevantes para o sistema, como por exemplo: restrições de negócio, restrições de desempenho, tolerância à falha, volume de informações a serem armazenadas, estimativa de crescimento de volume, ferramentas de apoio, entre outras.
 
-### Estórias dos usuários
+## Estórias dos usuários
 
 |Eu, enquanto (Quem) |Quero (o que quero) |Para (porque)|
 |:--:|:--:|:--:|
@@ -39,11 +40,11 @@ Neste item devem ser descritas as regras de negócio relevantes para o sistema, 
 |Ipsum|e testar as opções de formatação e edição e o arranjo dos elementos gráficos antes da inserção do conteúdo.|Inglês|
 
 
-### Documento de Visão 
+## Documento de Visão 
 
 Nesta seção se apresenta diagramas que resumem as necessidades do dono do produto e as características esperadas do produto a ser desenvolvido. Assim como também pode ser feita uma análise interna e externa acerca do projeto.
 
 
-### Prospecção tecnológica e busca de anterioridade
+## Prospecção tecnológica e busca de anterioridade
 
 Neste item devem ser identificadas e descritas soluções de software que resolvem problemas semelhantes à solução proposta neste projeto. Importante identificar os aspectos da solução e os diferenciais.
